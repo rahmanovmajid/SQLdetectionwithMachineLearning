@@ -1,0 +1,9 @@
+method,path,body,single_q,double_q,dashes,braces,spaces,badwords,class
+,,,,,,,,,
+GET,/index.jsp,,0,0,0,0,0,0,1
+,,,,,,,,,
+GET,/login.jsp,,0,0,0,0,0,0,1
+,,,,,,,,,
+POST,/doLogin,uid=asdsd&passw=asdsdsd&btnSubmit=Login,0,0,0,0,0,1,1
+,,,,,,,,,
+POST,/doLogin,uid=sasasas&passw=asddada&btnSubmit=Login,0,0,0,0,0,1,1
